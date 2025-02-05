@@ -25,8 +25,12 @@
 ###
 
 <p align="left">• 🌱 I’m currently learning Next.js  <br>• 🤖 Exploring AI integration in websites  <br>• 💬 Building a chat app with AI integration  <br>• 🌱 Exploring Open Source Contributions</p>
+ 
+###
 
-## 🚀 Skills
+<h1 align="center">🚀 Skills</h1>
+
+###
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
