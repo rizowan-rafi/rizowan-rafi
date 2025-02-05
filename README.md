@@ -81,19 +81,19 @@
 
 <p align="center">  
   <!-- Contributions -->  
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=rizowan-rafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizowan-rafi&theme=dark&hide_border=false" alt="GitHub Streak" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=rizowan-rafi&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizowan-rafi&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />  
 </p>  
 
 
