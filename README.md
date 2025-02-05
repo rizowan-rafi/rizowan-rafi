@@ -77,7 +77,23 @@
 
 ###
 
-###
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizowan-rafi" alt="GitHub Streak" /></a>
-###
+## 📊 GitHub Stats  
+
+<p align="center">  
+  <!-- Contributions -->  
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false" alt="GitHub Streak" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />  
+</p>  
+
 
