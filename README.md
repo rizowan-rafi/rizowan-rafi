@@ -63,7 +63,7 @@
   <a href="https://github.com/rizowan-rafi" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
   </a>  
-  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/rizowan-mahmud-rafi-b92800317/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rizowan-mahmud-rafi-b92800317" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>  
   <a href="mailto:your-email@example.com">
