@@ -89,7 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rizowan-rafi&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rizowan-rafi)](https://git.io/streak-stats)
 ###
 
 
