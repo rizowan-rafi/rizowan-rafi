@@ -78,6 +78,6 @@
 ###
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=rizowan-rafi)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rizowan-rafi" alt="GitHub Streak" /></a>
 ###
 
