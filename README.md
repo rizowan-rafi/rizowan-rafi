@@ -77,23 +77,18 @@
 
 ###
 
-## 📊 GitHub Stats  
+###
 
-<p align="center">  
-  <!-- Contributions -->  
-  <img src="https://komarev.com/ghpvc/?username=rizowan-rafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
-</p>  
+<h1 align="center">📊 GitHub Stats</h1>
 
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizowan-rafi&theme=dark&hide_border=false" alt="GitHub Streak" />  
-</p>  
+###
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=rizowan-rafi&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />  
-</p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizowan-rafi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizowan-rafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rizowan-rafi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizowan-rafi&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />  
-</p>  
+###
 
 
